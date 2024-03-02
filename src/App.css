@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +34,60 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.box{
+  margin: 0 auto;
+
+}
+.card{
+  margin: 0 auto;
+  margin-top: 0px;
+
+}
+.sel{
+  width: 300px;
+  height: 40px;
+}
+.btn1{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  border: none;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.ok{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.ab{
+  width: 150px;
+
+  }
+  .buy{
+    text-align: center;
+  }
+  .k{
+    height: 500px;
+    width: 3px;
+    background: #000;
+  }
+  .btn2{
+    width: 200px;
+    height: 50px;
+    color: #fff;
+    background: orangered;
+    font-size: 17px;
+    border: none;
+  }
+  .ol{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
